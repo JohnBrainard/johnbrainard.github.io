@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SAM Conversions in Kotlin (and Java)
-excerpt: "Demo post displaying the various ways of highlighting code in Markdown."
+excerpt: "How to implement functional interfaces with Kotlin and Java 8."
 tags: [code, kotlin, java, lambda]
 modified: 2015-8-29
 comments: true
@@ -45,3 +45,5 @@ class Demo {
 	}
 }
 {% endhighlight %}
+
+Read more on [SAM Conversions](http://kotlinlang.org/docs/reference/java-interop.html#sam-conversions) on [kotlinlang.org](http://kotlinlang.org/).
