@@ -1,6 +1,6 @@
 ---
 layout: home
-excerpt: "A humble blog for documenting my experience learning Kotlin, Spring, Java 8, etc..."
+excerpt: "Documenting my journey as a software developer"
 tags: [blog, John Brainard]
 image:
   feature: hinge.jpg
