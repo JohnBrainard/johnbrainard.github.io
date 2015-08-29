@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            John Brainard
 locale:           en_US
 url:
 
@@ -26,9 +26,9 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
+  name: John Brainard
+  avatar: john-brainard.png
+  bio: "Of course! I'm not synthetic."
   email:
   disqus-shortname:
   twitter: #username
@@ -40,7 +40,7 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: JohnBrainard
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username

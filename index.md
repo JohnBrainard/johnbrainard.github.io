@@ -1,9 +1,9 @@
 ---
 layout: home
-excerpt: "A minimal Jekyll theme for your blog by designer Michael Rose."
-tags: [Jekyll, theme, responsive, blog, template]
+excerpt: "A humble blog for documenting my experience learning Kotlin, Spring, Java 8, etc..."
+tags: [blog, John Brainard]
 image:
-  feature: sample-image-1.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: hinge.jpg
+  credit: Brainard Photography
+  creditlink: http://brainardphotography.com/
 ---
