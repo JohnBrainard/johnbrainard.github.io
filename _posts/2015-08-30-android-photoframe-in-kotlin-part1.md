@@ -7,7 +7,7 @@ modified: 2015-8-29
 comments: true
 ---
 
-As part of my exercise to learn [Kotlin](http://kotlinlang.org/), I wrote a simple photoframe in Android to show off images from my [photogrpahy site](http://brainardphotography.com). The app we build here will use a static set of images to start and possibly use the Flickr API to pull in the Explore images.
+As part of my exercise to learn [Kotlin](http://kotlinlang.org/), I wrote a simple photoframe in Android to show off images from my [photography site](http://brainardphotography.com). The app we build here will use a static set of images to start and possibly use the Flickr API to pull in the Explore images.
 
 I'm going to make the assumption that you're familiar with Android already and know how to set up your environment. In this series, we'll be using Android Studio to create the project and 4.0.3 will be our target platform.
 
@@ -18,6 +18,8 @@ The posts in this series will roughly be:
 * Part 3: Creating the image source and animating the transitions
 * Part 4: Handling power connect/disconnect to start the app and enable/disable screen timeout
 * Part 5 & beyond: If there are any refinements to the code we can make, we'll revisit this series
+
+At the end of this series, I'll post a link to the Github repository for this project. Each commit will represent a step in this process which you can use to verify your results and troubleshoot if necessary. I'll be making sure that the code works and using that as the source for code examples in this series. It can be very frustrating to get through several steps and find out there was a mistake in the instructions and be unsure how to deal with them.
 
 ### Setting up
 
@@ -30,7 +32,7 @@ We'll begin by creating a new Android Studio project.
 
 In the *Target Android Devices* page:
 
-1. Select *Phone and Table*,
+1. Select *Phone and Tablet*,
 2. Choose *API 15: Android 4.0.3 (Icecream Sandwich)* as the Minimum SDK then
 3. Click *next* to continue
 
