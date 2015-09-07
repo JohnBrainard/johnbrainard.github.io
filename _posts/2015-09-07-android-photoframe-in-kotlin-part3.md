@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Android Photoframe in Kotlin: Part 3 - Creating the Image Source and Displaying Photos"
-excerpt: "This is where the magic begins. We start off with converting `MainActivity` to a Kotlin file!"
+excerpt: "We'll add our images and write some Kotlin!"
 tags: [code, kotlin, java, android, photoframe]
 modified: 2015-9-7
 comments: true
