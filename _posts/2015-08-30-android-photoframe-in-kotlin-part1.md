@@ -3,7 +3,7 @@ layout: post
 title: "Android Photoframe in Kotlin: Part 1 - Introduction"
 excerpt: "In this post, I'll introduce how I built an Android photoframe app to learn Kotlin."
 tags: [code, kotlin, java, android, photoframe]
-modified: 2015-8-29
+modified: 2015-09-01
 comments: true
 ---
 
@@ -14,8 +14,8 @@ I'm going to make the assumption that you're familiar with Android already and k
 The posts in this series will roughly be:
 
 * Part 1: Setting up the project with Gradle and Android Studio
-* Part 2: Introducing the main views
-* Part 3: Creating the image source and animating the transitions
+* Part 2: [Introducing the main views]({% post_url 2015-09-02-android-photoframe-in-kotlin-part2 %})
+* Part 3: [Creating the image source and animating the transitions]({% post_url 2015-09-07-android-photoframe-in-kotlin-part3 %})
 * Part 4: Handling power connect/disconnect to start the app and enable/disable screen timeout
 * Part 5 & beyond: If there are any refinements to the code we can make, we'll revisit this series
 
