@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Android Photoframe in Kotlin: Part 4 - Handling power connect and disconnect"
-excerpt: ""
+excerpt: "In this post, We'll add the code to launch the photo frame automatically when your device is connected to power"
 tags: [code, kotlin, java, android, photoframe]
 modified: 2015-10-12
 comments: true
