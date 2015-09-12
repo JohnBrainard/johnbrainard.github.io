@@ -3,9 +3,11 @@ layout: post
 title: "Android Photoframe in Kotlin: Part 1 - Introduction"
 excerpt: "In this post, I'll introduce how I built an Android photoframe app to learn Kotlin."
 tags: [code, kotlin, java, android, photoframe]
-modified: 2015-09-01
+modified: 2015-09-12
 comments: true
 ---
+
+// Update: I've posted the [source code](https://github.com/JohnBrainard/KotlinPhotoFrame/) for this series on Github.
 
 As part of my exercise to learn [Kotlin](http://kotlinlang.org/), I wrote a simple photoframe in Android to show off images from my [photography site](http://brainardphotography.com). The app we build here will use a static set of images to start and possibly use the Flickr API to pull in the Explore images.
 

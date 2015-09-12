@@ -3,9 +3,11 @@ layout: post
 title: "Android Photoframe in Kotlin: Part 3 - Creating the Image Source and Displaying Photos"
 excerpt: "We'll add our images and write some Kotlin!"
 tags: [code, kotlin, java, android, photoframe]
-modified: 2015-9-7
+modified: 2015-09-12
 comments: true
 ---
+
+// Update: I've posted the [source code](https://github.com/JohnBrainard/KotlinPhotoFrame/) for this series on Github.
 
 Up until this point, we haven't written much code. Everything we've done so far has been to set up the Android application. This time we get to have a bit of fun. In this part, we're going to:
 

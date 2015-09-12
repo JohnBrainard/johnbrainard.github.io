@@ -3,9 +3,11 @@ layout: post
 title: "Android Photoframe in Kotlin: Part 2 - Introducing the Main Views (and Kotlin)"
 excerpt: "This is where the magic begins. We start off with converting `MainActivity` to a Kotlin file!"
 tags: [code, kotlin, java, android, photoframe]
-modified: 2015-09-02
+modified: 2015-09-12
 comments: true
 ---
+
+// Update: I've posted the [source code](https://github.com/JohnBrainard/KotlinPhotoFrame/) for this series on Github.
 
 [Last time]({% post_url 2015-08-30-android-photoframe-in-kotlin-part1 %}), we set up Android Studio, created our app and configured it to use Kotlin. This time, we're going convert the `MainActivity` class to Kotlin using the Kotlin plugin.
 
